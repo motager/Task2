@@ -1,0 +1,239 @@
+
+        body {
+            background-color: rgba(255, 239, 239, 0.714);
+        }
+
+        .main_div {
+            
+           padding: 50px;
+
+        }
+
+        .rf {
+
+            text-decoration-line: underline;
+            font-size: 50px;
+            margin: 30px;
+
+            
+
+        }
+
+        .div_rf {
+
+            text-align: center;
+
+            margin-bottom: 120px;
+        }
+
+        .first_name {
+
+            padding: 10px;
+            padding-right: 200px;
+            margin-left: 350px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            
+            border-radius: 10px;
+
+        }
+
+        .fn_label {
+
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: 30px;
+
+        }
+
+        .Last_Name {
+
+
+            padding: 10px;
+            padding-right: 200px;
+            margin-left: 350px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            border-radius: 10px;
+        }
+
+        .ln_label {
+
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: 30px;
+
+        }
+
+        .Nick_Name {
+
+            padding: 10px;
+            padding-right: 200px;
+            margin-left: 350px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            border-radius: 10px;
+
+        }
+
+        .Nn_label {
+
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: 30px;
+
+        }
+
+        .e-mail-2 {
+
+            padding: 10px;
+            padding-right: 200px;
+            margin-left: 385px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            border-radius: 10px;
+
+        }
+
+        .e-mail_label {
+
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: 35px;
+
+        }
+
+        .Password-2 {
+
+            padding: 10px;
+            padding-right: 200px;
+            margin-left: 365px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            border-radius: 10px;
+
+        }
+
+        .password_label {
+
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: 30px;
+
+        }
+
+        .Date_of_birth {
+
+            padding: 30px;
+            padding-right: 200px;
+            margin-left: 350px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            border-radius: 10px;
+
+        }
+
+        .Db_label {
+
+            margin-left: 30px;
+            margin-right: 350px;
+
+        }
+
+            .other{
+
+                margin-left: 60px;
+            } 
+            
+            .female {
+
+                margin-left: 60px;
+            }
+
+            .male {
+
+                margin-left:   400px;
+            }
+
+            .gender_label {
+
+                margin-left: 30px;
+                font-weight: 500;
+                font-size: 20px;
+
+            }
+
+        .mobile {
+
+            padding: 10px;
+            padding-right: 200px;
+            margin-left: 385px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            border-radius: 10px;
+
+        }
+
+        .number_label {
+
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: 30px;
+
+        }
+
+        .textarea {
+
+         
+                margin-left: 350px;
+           
+
+        }
+
+        .address_label {
+
+            margin-left: 30px;
+            margin-right: 100px;
+
+        }
+
+        .submit {
+
+            margin-right: 0100px;
+
+        }
+
+        .button {
+
+            text-align: center  ;
+
+        }
+        
+        .div-reset {
+
+            text-align: center;
+
+        }
+
+
+
+       
+
+        .gender_div {
+
+            padding: 10px;
+            padding-right: 200px;
+            margin-left: 10px;
+            font-size: 15px;
+            text-align: center;
+            direction: rtl;
+            border-radius: 10px;
+
+        }
