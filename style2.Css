@@ -1,239 +1,238 @@
+body {
+    background-color: #eee7e7;
+}
 
-        body {
-            background-color: #eee7e7;
-        }
+.main_div {
 
-        .main_div {
-            
-           padding: 50px;
+    padding: 50px;
 
-        }
+}
 
-        .rf {
+.rf {
 
-            text-decoration-line: underline;
-            font-size: 50px;
-            margin: 30px;
+    text-decoration-line: underline;
+    font-size: 50px;
+    margin: 30px;
 
-            
 
-        }
 
-        .div_rf {
+}
 
-            text-align: center;
+.div_rf {
 
-            margin-bottom: 120px;
-        }
+    text-align: center;
 
-        .first_name {
+    margin-bottom: 120px;
+}
 
-            padding: 10px;
-            padding-right: 200px;
-            margin-left: 350px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            
-            border-radius: 10px;
+.first_name {
 
-        }
+    padding: 10px;
+    padding-right: 200px;
+    margin-left: 350px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
 
-        .fn_label {
+    border-radius: 10px;
 
-            font-size: 20px;
-            font-weight: 500;
-            margin-left: 30px;
+}
 
-        }
+.fn_label {
 
-        .Last_Name {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 30px;
 
+}
 
-            padding: 10px;
-            padding-right: 200px;
-            margin-left: 350px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            border-radius: 10px;
-        }
+.Last_Name {
 
-        .ln_label {
 
-            font-size: 20px;
-            font-weight: 500;
-            margin-left: 30px;
+    padding: 10px;
+    padding-right: 200px;
+    margin-left: 350px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
+    border-radius: 10px;
+}
 
-        }
+.ln_label {
 
-        .Nick_Name {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 30px;
 
-            padding: 10px;
-            padding-right: 200px;
-            margin-left: 350px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            border-radius: 10px;
+}
 
-        }
+.Nick_Name {
 
-        .Nn_label {
+    padding: 10px;
+    padding-right: 200px;
+    margin-left: 350px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
+    border-radius: 10px;
 
-            font-size: 20px;
-            font-weight: 500;
-            margin-left: 30px;
+}
 
-        }
+.Nn_label {
 
-        .e-mail-2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 30px;
 
-            padding: 10px;
-            padding-right: 200px;
-            margin-left: 385px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            border-radius: 10px;
+}
 
-        }
+.e-mail-2 {
 
-        .e-mail_label {
+    padding: 10px;
+    padding-right: 200px;
+    margin-left: 385px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
+    border-radius: 10px;
 
-            font-size: 20px;
-            font-weight: 500;
-            margin-left: 35px;
+}
 
-        }
+.e-mail_label {
 
-        .Password-2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 35px;
 
-            padding: 10px;
-            padding-right: 200px;
-            margin-left: 365px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            border-radius: 10px;
+}
 
-        }
+.Password-2 {
 
-        .password_label {
+    padding: 10px;
+    padding-right: 200px;
+    margin-left: 365px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
+    border-radius: 10px;
 
-            font-size: 20px;
-            font-weight: 500;
-            margin-left: 30px;
+}
 
-        }
+.password_label {
 
-        .Date_of_birth {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 30px;
 
-            padding: 30px;
-            padding-right: 200px;
-            margin-left: 350px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            border-radius: 10px;
+}
 
-        }
+.Date_of_birth {
 
-        .Db_label {
+    padding: 30px;
+    padding-right: 200px;
+    margin-left: 350px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
+    border-radius: 10px;
 
-            margin-left: 30px;
-            margin-right: 350px;
+}
 
-        }
+.Db_label {
 
-            .other{
+    margin-left: 30px;
+    margin-right: 350px;
 
-                margin-left: 60px;
-            } 
-            
-            .female {
+}
 
-                margin-left: 60px;
-            }
+.other {
 
-            .male {
+    margin-left: 60px;
+}
 
-                margin-left:   400px;
-            }
+.female {
 
-            .gender_label {
+    margin-left: 60px;
+}
 
-                margin-left: 30px;
-                font-weight: 500;
-                font-size: 20px;
+.male {
 
-            }
+    margin-left: 400px;
+}
 
-        .mobile {
+.gender_label {
 
-            padding: 10px;
-            padding-right: 200px;
-            margin-left: 385px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            border-radius: 10px;
+    margin-left: 30px;
+    font-weight: 500;
+    font-size: 20px;
 
-        }
+}
 
-        .number_label {
+.mobile {
 
-            font-size: 20px;
-            font-weight: 500;
-            margin-left: 30px;
+    padding: 10px;
+    padding-right: 200px;
+    margin-left: 385px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
+    border-radius: 10px;
 
-        }
+}
 
-        .textarea {
+.number_label {
 
-         
-                margin-left: 350px;
-           
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 30px;
 
-        }
+}
 
-        .address_label {
+.textarea {
 
-            margin-left: 30px;
-            margin-right: 100px;
 
-        }
+    margin-left: 350px;
 
-        .submit {
 
-            margin-right: 0100px;
+}
 
-        }
+.address_label {
 
-        .button {
+    margin-left: 30px;
+    margin-right: 100px;
 
-            text-align: center  ;
+}
 
-        }
-        
-        .div-reset {
+.submit {
 
-            text-align: center;
+    margin-right: 0100px;
 
-        }
+}
 
+.button {
 
+    text-align: center;
 
-       
+}
 
-        .gender_div {
+.div-reset {
 
-            padding: 10px;
-            padding-right: 200px;
-            margin-left: 10px;
-            font-size: 15px;
-            text-align: center;
-            direction: rtl;
-            border-radius: 10px;
+    text-align: center;
 
-        }
+}
+
+
+
+
+
+.gender_div {
+
+    padding: 10px;
+    padding-right: 200px;
+    margin-left: 10px;
+    font-size: 15px;
+    text-align: center;
+    direction: rtl;
+    border-radius: 10px;
+
+}
